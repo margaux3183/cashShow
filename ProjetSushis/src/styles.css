@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.lesdeux {
+     position: relative;
+    } 
+.lesecond {
+    position: absolute;
+    bottom: 6px;
+    left: 10px;
+ }

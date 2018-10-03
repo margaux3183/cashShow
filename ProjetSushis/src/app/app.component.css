@@ -1,0 +1,48 @@
+legend {
+    background-color: rgb(243, 101, 6);
+    color: #fff;
+    padding: 3px 6px;
+}
+
+.btn {
+    font: 1rem 'Fira Sans', sans-serif;
+    padding: .5rem;
+    background: #ee8803;
+    border: none;
+    border-radius: 0px;
+    margin: 4px;
+    float:left;
+    position: relative;
+    padding-left: 10px;
+}
+img {
+    position: relative;
+    float: left; 
+    border-radius:40px;
+    width:95px;
+    height:90px;
+}
+.input{
+     size:"30";
+     float:left;
+     position: relative;
+     position: absolute;
+}
+
+.input-right {
+    size:"30";
+    position: relative;
+    float:right;
+}
+
+images{
+    float:left;
+    margin:0 10px; /* 10px a droite et a gauche de l image */
+    padding:0;
+    width: 130px;
+    height: 120px;
+}
+
+.quantité {
+    position: absolute; 
+    bottom: -10px; }

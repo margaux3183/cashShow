@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<world
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='jaxb/world/worldSchema.xsd'>
+    <name> Margaux</name>
+    <logo>Logo_sushis_Master.jpg</logo>
+    <money>0</money>
+    <score></score>
+    <totalangels></totalangels>
+    <activeangels></activeangels>
+    <angelbonus></angelbonus>
+    <lastupdate></lastupdate>
+    <products>
+        <product>
+            <id>1</id>
+            <name>Maki</name>
+            <logo>makiSaumon.jpg</logo>
+            <cout>1</cout>
+            <croissance>1.03</croissance>
+            <revenu>5</revenu>
+            <vitesse>3000</vitesse>
+            <quantite>1</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>maki</name>
+                    <logo>makiSaumon.jpg</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>maki</name>
+                    <logo>makiSaumon.jpg</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+
+            </palliers>
+        </product>
+        <product>
+            <id>2</id>
+            <name>Temaki</name>
+            <logo>Temaki.jpg</logo>
+            <cout>60</cout>
+            <croissance>1.15</croissance>
+            <revenu>60</revenu>
+            <vitesse>6000</vitesse>
+            <quantite>1</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>Temaki</name>
+                    <logo>Temaki.jpg</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+
+        </product>
+        <product>
+            <id>3</id>
+            <name>Sashimi</name>
+            <logo>sashimi.jpg</logo>
+            <cout>60</cout>
+            <croissance>1.15</croissance>
+            <revenu>60</revenu>
+            <vitesse>14000</vitesse>
+            <quantite>1</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>sashimi</name>
+                    <logo>sashimi.jpg</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+
+        </product>
+        <product>
+            <id>2</id>
+            <name>Temaki</name>
+            <logo>Temaki.jpg</logo>
+            <cout>60</cout>
+            <croissance>1.15</croissance>
+            <revenu>60</revenu>
+            <vitesse>30000</vitesse>
+            <quantite>1</quantite>
+            <timeleft>2</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>Temaki</name>
+                    <logo>Temaki.jpg</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+
+        </product>
+        <product>
+            <id>4</id>
+            <name>Sushi Saumon</name>
+            <logo>sushi-saumon.jpg</logo>
+            <cout>60</cout>
+            <croissance>1.15</croissance>
+            <revenu>60</revenu>
+            <vitesse>30000</vitesse>
+            <quantite>1</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>sushi-saumon</name>
+                    <logo>sushi-saumon.jpg</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+
+        </product>
+    </products>
+    <allunlocks>
+    </allunlocks>
+    <upgrades>
+    </upgrades>
+    <angelupgrades>
+    </angelupgrades>
+    <managers>
+    </managers>
+
+</world>

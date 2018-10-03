@@ -1,0 +1,19 @@
+<div class="row">
+  <div class="col-md-4">
+    <div class="lesdeux">
+      <span class="sushi"><img (click)="startFabrication()" [attr.src]="serverImage+product.logo" height="90" width="90" />   </span>
+      <span class="qte lesecond">{{product?.quantite}}</span>
+  </div>
+  </div>
+  <div class="col-md-4">
+      <div class="quantité col-md-4">
+        <input class="input-right" type="text" name="pseudo" disabled id="x1" placeholder="x1"/>  
+  </div>
+</div>
+<div class="row">
+    <div class="progress" #bar> </div>
+    <button class="succes" disabled><span id="productTps">{{product?.timeleft}}</span></button>  millisecondes
+    </div>
+</div> 
+
+  

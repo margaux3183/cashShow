@@ -1,0 +1,18 @@
+
+#bandeau_gauche{
+    widht: 150 px;
+    height: 200px;
+    background-color: #E17155;
+    float: left;
+    
+}
+
+.qte {
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    width: 67px;
+    height: 13px;
+    text-align: center;
+    line-height: 12px;
+}
